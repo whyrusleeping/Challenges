@@ -1,0 +1,17 @@
+#Challenges
+
+This is a compilation of programming problems that I have given and been given for people to practice. I will solve and upload each in go.
+
+### Strings
+
+- Check If Palindrome
+- All Permutations of a string
+
+### Arrays
+
+- Find Duplicate
+- Find Missing
+
+### Data Structures
+
+- Reverse a Linked List
