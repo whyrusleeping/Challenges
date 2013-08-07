@@ -4,14 +4,15 @@ This is a compilation of programming problems that I have given and been given f
 
 ### Strings
 
-- Check If Palindrome
-- All Permutations of a string
+- Check If Palindrome [ispal.go]
+- All Permutations of a string [permute.go]
+- Reverse words in a sentence [revwords.go]
 
 ### Arrays
 
-- Find Duplicate
-- Find Missing
+- Find Duplicate [funddup.go]
+- Find Missing [findmissing.go]
 
 ### Data Structures
 
-- Reverse a Linked List
+- Reverse a Linked List [revlink.go]
