@@ -4,7 +4,7 @@ This is a compilation of programming problems that I have given and been given f
 
 ### Strings
 
-- Check If Palindrome [ispal.go]
+- Check If Palindrome (number or string) [ispal.go]
 - All Permutations of a string [permute.go]
 - Reverse words in a sentence [revwords.go]
 
@@ -12,7 +12,9 @@ This is a compilation of programming problems that I have given and been given f
 
 - Find Duplicate [funddup.go]
 - Find Missing [findmissing.go]
+- Maximum Contiguous Subsequence [maxsubseqsum.go]
 
 ### Data Structures
 
 - Reverse a Linked List [revlink.go]
+- Binary Tree [bintree.go]
