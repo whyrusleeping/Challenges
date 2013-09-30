@@ -10,11 +10,11 @@ This is a compilation of programming problems that I have given and been given f
 
 ### Arrays
 
-- Find Duplicate [funddup.go]
-- Find Missing [findmissing.go]
-- Maximum Contiguous Subsequence [maxsubseqsum.go]
+- Find Duplicate number in a list of 1-n [funddup.go]
+- Find Missing number in a list of 1-n [findmissing.go]
+- Find the Maximum Contiguous Subsequence [maxsubseqsum.go]
 
 ### Data Structures
 
 - Reverse a Linked List [revlink.go]
-- Binary Tree [bintree.go]
+- Write a Binary search Tree [bintree.go]
